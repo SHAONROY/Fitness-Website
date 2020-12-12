@@ -1,0 +1,57 @@
+@media ( min-width: 768px) and (max-width: 991px){
+    /* Start The Service Section  */
+    #services h4 {
+        font-size: 20px;
+    }
+    #services p  {
+        text-align: left !important;
+        font-size: 15px;
+        letter-spacing: 3px;
+        word-spacing: 1px;
+        letter-spacing: 1px;
+        line-height: 25px;
+    }
+    #services .col-md-4 h4 {
+        margin: 15px 0px 0px;
+    }
+    #services .col-md-4:nth-child(2) img{
+        margin-top: 15px;
+    }
+    #services .col-md-4:nth-child(3) img{
+        margin-top: 13px;
+    }
+    /* End The Servicee Section  */
+    /* Start The Featurces Section  */
+    .featurce-box {
+       margin-bottom: 34px;
+    }
+    .featurec-right {
+        margin-left: 84px !important;
+    }
+    #featurces img {
+        margin-top: 90px;
+    }
+    /* End The Featurces Section  */
+    /* Start The Testimonial Section  */
+    #testimonials .middle {
+        margin-top: 0px;
+    }
+    /* End The Testimonial Section  */
+    /* Start The Footer Section  */
+    #footer .col-md-3 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    #footer .fa {
+        padding-right: 10px;
+        font-size: 15px;
+    }
+    #footer p {
+        font-size: 15px;
+    }
+    #footer .fab {
+        padding-right: 10px;
+        font-size: 15px;
+        padding-left: 10px;
+    }
+}
